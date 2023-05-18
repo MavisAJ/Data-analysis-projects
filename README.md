@@ -1,3 +1,4 @@
 # INDIAN-STARTUP-ECOSYTEM
-This project is a purely data analysis project done using Jupyter notebook.Data cleaning, analysis on data with various visualization was done solely with Jupyter Notebook.The purpose of this project is to analyse the Indian Startup ecosystem from 2018 to 2021. Questions answered during this analyses are my own question based on information I wanted to know on the Indian Ecosytem.
-The data set used has been added to this repository.
+
+Find my interesting data analysis projects here.Data cleaning, analysis ond the various datasets  with various visualization were done solely with python in Jupyter Notebook.
+Find my analysis on the Indian Startup ecosystem and analysis on the video games sales.The datasets used have  been added to this repository.
